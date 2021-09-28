@@ -1,0 +1,21 @@
+body {
+    background-image: url(img/background-image) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    margin: 25px;
+}
+
+#maintext {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#buttons1 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#buttons2 {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
