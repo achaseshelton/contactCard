@@ -1,7 +1,7 @@
 body {
-    background-image: url("./img/background-image") !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
+    background-color: darkblue;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 25px;
 }
 
@@ -20,4 +20,12 @@ body {
     padding-top: 20px;
     padding-bottom: 25px;
     padding-left: 20px;
+}
+
+#box {
+    margin-top: 35px;
+}
+
+hr {
+    size: 2re;
 }
